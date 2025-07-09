@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Datasets (raw and processed)
+/kgn_vn_dataset/
+/normalized_audio/
+
